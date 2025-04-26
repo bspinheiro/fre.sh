@@ -3,10 +3,8 @@
 <p align="center"> <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License MIT"> <img src="https://img.shields.io/badge/platform-macOS%20%7C%20Linux-blue.svg" alt="Platform macOS Linux"> <img src="https://img.shields.io/badge/bash-%3E=5.0-brightgreen.svg" alt="Bash 5.0+"> <img src="https://img.shields.io/badge/homebrew-supported-orange.svg" alt="Homebrew Supported"> <img src="https://img.shields.io/github/issues/bspinheiro/fre.sh" alt="GitHub Issues"> </p>
 
 > **fre.sh** is a script designed to **fresh install** your developer environment on **macOS** and **Linux** (initially **Debian**). It automates installing **Homebrew**, essential **apps** (via **casks**), setting up **aliases**, configuring **Neovim**, managing **dotfiles** (with **stow**), and customizing your **command prompt** — all in a clean and simple way.
+
 ---
-<p align="center">
-  <img src="icons/fresh_pixel3d.png" alt="fre.sh logo" width="800">
-</p>
 
 ## ✨ Features
 
@@ -109,5 +107,7 @@ Contributions, issues, and feature requests are welcome!Feel free to check the [
 ---
 
 ## ✨ Author
-
+<p align="center">
+  <img src="icons/fresh_pixel3d.png" alt="fre.sh logo" width="800">
+</p>
 Made with ❤️ by [bspinheiro](https://github.com/bspinheiro)
